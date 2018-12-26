@@ -4,12 +4,3 @@ The topics covered in the lab include the basics of specifying circuits leading 
 
 ## Note
 The code for lab 1 is missing since I forgot to save the code on a USB drive.
-
-# License
-Copyright © 2018 by Dr. Naraig Manjikian, P.Eng. 
-
-All rights reserved.
-
-Any direct or derivative use of this material beyond the course and term stated above requires explicit written consent from the author, with the exception of future private study and review by students registered in the course and term stated below.
-
-ELEC 271 Digital Systems, Fall 2018
